@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name             = 'emforceapisdk',
-    version          = '0.1',
+    version          = '0.1.1',
     description      = 'Emforce Python sdk for media api',
     author           = 'Jimin Park',
     author_email     = 'parkjiminy@gmail.com',
     url              = 'https://github.com/emforcernd/emforceapisdk',
-    download_url     = 'https://github.com/emforcernd/emforceapisdk/archive/0.0.tar.gz',
+    download_url     = 'https://github.com/emforcernd/emforceapisdk/archive/0.0.1.tar.gz',
     install_requires    =  [],
     packages            = find_packages(exclude = []),
     keywords            = ['emforce','emforceapisdk'],
