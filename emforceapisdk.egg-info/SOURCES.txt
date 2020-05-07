@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+emforceapisdk.egg-info/PKG-INFO
+emforceapisdk.egg-info/SOURCES.txt
+emforceapisdk.egg-info/dependency_links.txt
+emforceapisdk.egg-info/not-zip-safe
+emforceapisdk.egg-info/top_level.txt
