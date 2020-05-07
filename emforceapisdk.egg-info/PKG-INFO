@@ -1,12 +1,12 @@
 Metadata-Version: 1.2
 Name: emforceapisdk
-Version: 0.1
+Version: 0.1.1.1
 Summary: Emforce Python sdk for media api
 Home-page: https://github.com/emforcernd/emforceapisdk
 Author: Jimin Park
 Author-email: parkjiminy@gmail.com
 License: UNKNOWN
-Download-URL: https://github.com/emforcernd/emforceapisdk/archive/0.0.tar.gz
+Download-URL: https://github.com/emforcernd/emforceapisdk/archive/0.1.1.1.tar.gz
 Description: UNKNOWN
 Keywords: emforce,emforceapisdk
 Platform: UNKNOWN
